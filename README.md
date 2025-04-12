@@ -5,7 +5,13 @@ Algumas Habilidades e Competências:
 - Desenvolvimento Jogos (Unity3D/Unreal)
 - Modelagem e Implementação de Banco de Dados SQL
 - Microsoft Office 365
+- Conhecimento das Metodologias Ágeis 
+- Suporte técnico e ao usuário
+- Aprendendo Cibersecurity 
 
 Objetivos:
 Meu objetivo é crescer como desenvolvedor, assumindo e ajudando em projetos que me permitam aplicar e expandir meus conhecimentos. Estou sempre aberto a novas oportunidades de aprendizado e colaboração em diferentes áreas e assuntos.
 Estou sempre interessado em expandir minha rede e conhecer profissionais da área de tecnologia. 
+
+Contato:
+Email: raphaeldossantosdev2@gmail.com
